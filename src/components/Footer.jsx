@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className="mt-12 border-t border-white/10">
       <div className="container-px py-8 text-xs text-neutral-400 flex flex-col sm:flex-row items-center justify-between gap-4">
-        <p>© 2025 Brett Beare • Built with React + Tailwind</p>
+        <p>© 2025 Brett Beare</p>
         <div className="flex gap-4">
           <a
             className="hover:text-white"
